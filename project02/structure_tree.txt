@@ -1,0 +1,34 @@
+__main__
++-- ex01
+    +-- make_blast_database
+    +-- perform_local_blast_search
++-- ex02
+    +-- filter_promoters
+    +-- perform_meme_search
+    +-- process_meme_output
++-- ex03
+    +-- parse_motifs
+    +-- get_promoter_sequences
+    +-- compute_enrichments
+        +-- count_trials
+        +-- count_hits
+            +-- compute_log_odds
+            +-- all_windows
+
++-- project.py
++-- data
+    +-- e_coli.fa
+    +-- proms_e_coli.fa
+    +-- query.fa
+    +-- db
+        +-- ...
+    +-- blast_result.csv
+    +-- proms_e_coli_A.fa
+    +-- proms_e_coli_B.fa
+    +-- memeA
+        +-- ...
+    +-- memeB
+        +-- ...
+    +-- A.pfm
+    +-- B.pfm
+    +-- final_result.csv

@@ -1,0 +1,13 @@
+DEBUG:root:mid = 351, len_not_unique = 5, time_single = 0:59:57.287901, time_total = 0:59:57.287901
+DEBUG:root:mid = 527, len_not_unique = 5, time_single = 0:00:05.194711, time_total = 1:00:02.482612
+DEBUG:root:mid = 439, len_not_unique = 5, time_single = 0:00:08.759197, time_total = 1:00:11.241809
+DEBUG:root:mid = 395, len_not_unique = 5, time_single = 0:00:04.712131, time_total = 1:00:15.953940
+DEBUG:root:mid = 373, len_not_unique = 5, time_single = 0:00:04.351251, time_total = 1:00:20.305191
+DEBUG:root:mid = 362, len_not_unique = 5, time_single = 0:00:04.646975, time_total = 1:00:24.952166
+DEBUG:root:mid = 357, len_not_unique = 5, time_single = 0:00:04.322878, time_total = 1:00:29.275044
+DEBUG:root:mid = 354, len_not_unique = 5, time_single = 0:00:04.644235, time_total = 1:00:33.919279
+DEBUG:root:mid = 353, len_not_unique = 5, time_single = 0:00:04.330002, time_total = 1:00:38.249281
+DEBUG:root:mid = 352, len_not_unique = 5, time_single = 0:00:04.515648, time_total = 1:00:42.764929
+
+
+1:01:53.443635 + 0:01:56.155734

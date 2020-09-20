@@ -1,0 +1,2 @@
+DEBUG:root:mid = 1, len_not_unique = 4437, time_single = 0:00:02.528081, time_total = 0:00:02.528081
+DEBUG:root:mid = 2, len_not_unique = 4437, time_single = 0:00:06.112326, time_total = 0:00:08.640407

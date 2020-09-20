@@ -1,0 +1,9 @@
+DEBUG:root:mid = 351, len_not_unique = 5, time_single = 0:00:11.716783, time_total = 0:00:11.716783
+DEBUG:root:mid = 527, len_not_unique = 5, time_single = 0:00:10.123268, time_total = 0:00:21.840051
+DEBUG:root:mid = 439, len_not_unique = 1, time_single = 0:00:23.549629, time_total = 0:00:45.389680
+DEBUG:root:mid = 483, len_not_unique = 1, time_single = 0:00:08.846496, time_total = 0:00:54.236176
+DEBUG:root:mid = 461, len_not_unique = 1, time_single = 0:00:21.393998, time_total = 0:01:15.630174
+DEBUG:root:mid = 472, len_not_unique = 1, time_single = 0:00:07.786358, time_total = 0:01:23.416532
+DEBUG:root:mid = 467, len_not_unique = 1, time_single = 0:00:06.592174, time_total = 0:01:30.008706
+DEBUG:root:mid = 464, len_not_unique = 1, time_single = 0:00:06.756173, time_total = 0:01:36.764879
+DEBUG:root:mid = 463, len_not_unique = 1, time_single = 0:00:19.390855, time_total = 0:01:56.155734
